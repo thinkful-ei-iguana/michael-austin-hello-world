@@ -2,6 +2,7 @@ import React from 'react';
 
 const student = {
   name: 'Sally Student',
+  grade: 'A',
 };
 
 // const name = student.map(name)
